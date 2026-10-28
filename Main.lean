@@ -1,4 +1,4 @@
-import Lean4
+--import Lean4
 
-def main : IO Unit :=
-  IO.println s!"Hello, {hello}!"
+--def main : IO Unit :=
+ -- IO.println s!"Hello, {hello}!"
